@@ -1,0 +1,13 @@
+@media screen and (max-width: 975px) {
+  .container,
+  .main-content,
+  .secondary-content {
+    height: 100%
+  }
+
+  .main-content,
+  .secondary-content {
+    display: block;
+    width: 100%;
+  }
+}

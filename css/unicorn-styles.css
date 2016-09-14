@@ -96,13 +96,16 @@ nav li a:hover {
 .container {
   width: 90%;
   margin: 0 auto;
+  margin: 20px;
 }
 
+/*
 .container,
 .main-content,
 .secondary-content {
   height: 500px;
 }
+*/
 
 .main-content {
   display: inline-block;
